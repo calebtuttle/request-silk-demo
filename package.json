@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@ark-ui/react": "^1.0.1",
+    "@requestnetwork/request-client.js": "^0.42.0",
+    "@requestnetwork/web3-signature": "^0.4.38",
     "@silk-wallet/silk-wallet-sdk": "^0.0.21",
     "next": "14.0.3",
     "react": "^18",
